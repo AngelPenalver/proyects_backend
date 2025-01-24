@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "tarea 2",
+      "status": "in-progress",
+      "createAt": "2025-01-24T20:13:35.061Z",
+      "updateAt": "2025-01-24T20:13:35.065Z"
+    },
+    {
+      "id": 3,
+      "description": "tarea 3",
+      "status": "todo",
+      "createAt": "2025-01-24T20:56:26.341Z",
+      "updateAt": "2025-01-24T20:56:26.343Z"
+    }
+  ]
+}
